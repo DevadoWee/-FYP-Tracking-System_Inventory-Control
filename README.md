@@ -14,4 +14,4 @@ By using these three attributes, the system detects the movement of an object, l
 2. The coordinates(xyxy) of the detected objects vary by a small margin even if the both the footage and the object is stationary.
 3. Yolov7 is not flawless. You should take note of minor errors whenever it detects something wrongly and come up with a measure for it.
 4. Despite how simplified the summary of the result manipulation is, it is important to take note that video footages are but frames bound together. With that, reassurance steps must be made to ensure only correct information is retained.
-5. Creating custom yolo weight is advised. Had a scissors be identified as a person because I was using the pre-trained weight.
+5. Creating a custom yolo weight is advised. Had a scissors be identified as a person because I was using a pre-trained weight.
