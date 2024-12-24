@@ -1,6 +1,10 @@
 # FYP-Tracking-System_Inventory-Control
 Tools used - 1.Yolov7  2.Flutter  3.Firebase
 
+# If for some reason you came to my page looking to do your FYP...
+1. IMO, Please don't even try Yolov3 if accuracy is necessary for your project.
+2. Sure Yolov7 will be hard to run live on your computer but starting it off as a video is not bad at all.
+
 # Main point
 The system uses the results provided by Yolov7 such as...
 1. Coordinates of the detected objects.
